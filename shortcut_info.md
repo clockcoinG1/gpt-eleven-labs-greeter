@@ -1,8 +1,3 @@
-# GPT Greeter
-
-* use shortcuts on local machine or phone to run ssh script on arrival / departure
-
-```csv
 Element,Name,Code,Description,Type,Access,Cocoa Key
 value-type,RGB color,cRGB,,WFColor,,,
 value-type,TIFF image,TIFF,,NSImage,,,
@@ -24,5 +19,3 @@ property,id,ID  ,the unique identifier of the folder,text,r,scriptingID
 command,run,srctrun ,Run a shortcut. To run a shortcut in the background, without opening the Shortcuts app, tell 'Shortcuts Events' instead of 'Shortcuts'.,,,
 parameter,with input,inpt,the input to provide to the shortcut,any,yes,
 result,,the result of the shortcut,any,
-```
-
